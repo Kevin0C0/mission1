@@ -1,0 +1,4 @@
+put in a clear dir 
+run "docker-compose up" 
+enter the url from cli return
+need to change localhost to your IP 
