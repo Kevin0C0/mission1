@@ -2,3 +2,6 @@ put in a clean dir
 run "docker-compose up" 
 enter the url into browser from cli return
 need to change localhost to your IP 
+
+mysql root pw is iii
+user test pw is test
